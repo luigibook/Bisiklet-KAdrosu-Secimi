@@ -1,2 +1,2 @@
-# Bisiklet-KAdrosu-Secimi
+# Bisiklet-Kadrosu-Secimi
 Yol yarın bisiklet Kadrosu seçim kılavuzu
